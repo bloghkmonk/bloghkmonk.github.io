@@ -10,31 +10,37 @@
 <url>
   <loc>https://bloghkmonk.github.io/</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/ad.html</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/links.html</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/about.html</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/index.html</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bloghkmonk.github.io/index.html</loc>
   <lastmod>2020-07-05T13:37:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.64</priority>
 </url>
 
