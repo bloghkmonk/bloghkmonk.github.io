@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://bloghkmonk.github.io/</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>1.00</priority>
+<loc>https://bloghkmonk.github.io/</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/ad.html</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+<loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/ad.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/links.html</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+<loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/links.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/about.html</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+<loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/about.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/index.html</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
+<loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/2020%E5%B9%B4%E5%A6%82%E4%BD%95%E5%AF%AB%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://bloghkmonk.github.io/index.html</loc>
-  <lastmod>2020-07-06T12:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
+<loc>https://bloghkmonk.github.io/%E7%99%BC%E5%B8%83/2020%E5%B9%B4%E7%B6%B2%E7%B5%A1%E8%B3%BA%E9%8C%A2%E6%96%B9%E6%B3%95.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://bloghkmonk.github.io/index.html</loc>
+<lastmod>2020-07-07T11:26:33+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.64</priority>
+</url>
 </urlset>
