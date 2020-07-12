@@ -1,51 +1,27 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://bloghkmonk.github.io/</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/index.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/ad.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/links.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/about.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.90</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/2020年如何寫博客的第一篇文章.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/2020年有錢人的秘密.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://bloghkmonk.github.io/發布/2020年網絡賺錢方法.html</loc>
-<lastmod>2020-07-11</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.80</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bloghkmonk.github.io</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/index.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/about.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/ad.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/links.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/2020年如何寫博客的第一篇文章.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/2020年有錢人的秘密.html</loc>
+  </url>
+  <url>
+    <loc>https://bloghkmonk.github.io/發布/2020年網絡賺錢方法.html</loc>
+  </url>
 </urlset>
