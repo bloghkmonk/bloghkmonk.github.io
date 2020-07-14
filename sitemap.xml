@@ -1,27 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://bloghkmonk.github.io</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/index.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/about.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/ad.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/links.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/2020年如何寫博客的第一篇文章.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/2020年有錢人的秘密.html</loc>
-  </url>
-  <url>
-    <loc>https://bloghkmonk.github.io/發布/2020年網絡賺錢方法.html</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://bloghkmonk.github.io/</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/ad.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/links.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/about.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/2020年如何寫博客的第一篇文章.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/2020年網絡賺錢方法.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
+<url>
+  <loc>https://bloghkmonk.github.io/../發布/2020年有錢人的秘密.html</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14</lastmod>
+</url>
 </urlset>
